@@ -3,7 +3,7 @@
 function bs_container($content, $class='', $tag='div') {
 	$attr = "";
 	if($tag !== 'div') {
-		$attr .= " role='$tag'";
+		$attr .= " role='" . $tag . "'";
 	}
 	if(isset($class)){
 		$class = " " . $class;
