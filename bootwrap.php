@@ -10,15 +10,6 @@
  * @see https://github.com/ppoisson/bootwrap
  * @author Paul Poisson <paul.poisson@gmail.com>
  * @copyright Copyright (c) 2017 - 2018 Paul Poisson
- * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
- * @note This program is distributed in the hope that it will be useful - WITHOUT
- * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE. See the GNU
- * Lesser General Public License for more details.
- */
-
-/**
- * 
  */
 class BootWrap {
 
@@ -338,10 +329,6 @@ class BootWrap {
 			'class' => $layout
 		]);
 	}
-
-
-	/* Base Method ---------------------------------------------------- */
-
 
 	/**
 	 * Generic method to create an HTML tag
