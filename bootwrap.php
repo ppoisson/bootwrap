@@ -3,7 +3,7 @@
  * BootWrap - PHP wrapper for Bootstrap 4
  * 
  * Reduces code and mistakes in HTML markup.
- * Simply pass your content, and bootstrap class to the function.
+ * Simply pass content, arrays, and classes to the method.
  * 
  * @category BootWrap
  * @package BootWrap
