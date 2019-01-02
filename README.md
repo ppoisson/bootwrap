@@ -1,2 +1,2 @@
 # bootwrap
-A set of PHP wrapper functions for Bootstrap 4
+PHP wrapper for Bootstrap 4
